@@ -32,6 +32,7 @@ class Solution:
                 return [index1, index2]  
 
 """
-Runtime: 223 ms, faster than 35.49% of Python3 online submissions for Two Sum.
-Memory Usage: 15 MB, less than 76.73% of Python3 online submissions for Two Sum.
+Results:
+    Runtime: 223 ms, faster than 35.49% of Python3 online submissions for Two Sum.
+    Memory Usage: 15 MB, less than 76.73% of Python3 online submissions for Two Sum.
 """
