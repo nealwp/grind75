@@ -10,9 +10,19 @@ v1:
     - check if the element + anchor = target
     -- if so, return the index of the anchor and the element
     -- else move the anchor to the next element in the list
-    
-    !! this takes too long for list of 10k!
-    
+
+   ** this takes too long for list of 10k! **
+"""
+from typing import List
+
+class Solution:
+    def twoSum(self, nums: List[int], target: int) -> List[int]:
+        for index1, num in enumerate(nums):
+            anchor = nums[index1]
+            for index2, num2 in enumerate(nums):
+                if anchor + nums[index2] == target and index1 != index2:
+                    return [index1, index2]
+""" 
 v2:
     -- subtract the target from largest list item
     -- find index of the difference
