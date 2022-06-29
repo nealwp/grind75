@@ -19,7 +19,8 @@ Python 3
 1. No researching solutions until I've written one that passes all test
 
 ## Current progress
-|Problem|Level|Date Completed|Runtime|Memory
-|-|-|-:|-|-|
+|Problem|Level|Date Completed|Runtime|Memory|
+|-|-|-:|-:|-:|
 |Two Sum|Easy|6/28/2022|223ms (35%)|15MB (76%)|
-|Valid Parentheses|Easy|6/28/2022|47ms (51%)|13.9MB (69%)|
+|Valid Parentheses|Easy|6/28/2022|47ms (51%)|14MB (69%)|
+|Merge Two Sorted Lists|Easy|6/28/2022|70ms (21%)|14MB (31%)|
