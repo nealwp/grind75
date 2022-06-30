@@ -14,9 +14,6 @@ Once I have a submission that passes all test cases, I commit the code, document
 
 ## Language
 Python 3
-## Constraints
-1. Use Google only for language features 
-1. No researching solutions until I've written one that passes all test
 
 ## Current progress
 |Problem|Level|Date Completed|Runtime|Memory|
