@@ -24,3 +24,4 @@ Python 3
 |Two Sum|Easy|6/28/2022|223ms (35%)|15MB (76%)|
 |Valid Parentheses|Easy|6/28/2022|47ms (51%)|14MB (69%)|
 |Merge Two Sorted Lists|Easy|6/28/2022|70ms (21%)|14MB (31%)|
+|Best Time To Buy Sell Stock|Easy|6/29/2022|1302ms (68%)|25MB (37%)|
