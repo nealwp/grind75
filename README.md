@@ -23,3 +23,4 @@ Python 3
 |Merge Two Sorted Lists|Easy|6/28/2022|70ms (21%)|14MB (31%)|
 |Best Time To Buy Sell Stock|Easy|6/29/2022|1302ms (68%)|25MB (37%)|
 |Valid Palindrome|Easy|6/29/2022|54ms (84%)|15.3MB (22%)|
+|Invert Binary Tree|Easy|7/4/2022|53ms (34%)|14MB (56%)|
